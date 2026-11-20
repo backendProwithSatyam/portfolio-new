@@ -1,4 +1,4 @@
-# Satyam Shukla — Reel-style Portfolio
+# Satyam Shukla — style Portfolio
 
 A second, separate portfolio in a black-and-white, editorial style. It lives entirely in this
 folder and does not touch the original site in the parent directory.
@@ -8,7 +8,7 @@ React 18 + TypeScript + Vite, GSAP ScrollTrigger and Lenis smooth scrolling. No 
 ## Run it
 
 ```bash
-cd reel-portfolio
+cd portfolio
 npm install
 npm run dev        # http://localhost:5174  (the original site stays on 5173)
 npm run build      # production build → reel-portfolio/dist
